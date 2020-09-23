@@ -1,0 +1,29 @@
+DMPad Version 1.1 15-Oct-2008
+
+Fixed Auto indent now works with spaces.
+Added Options Menu.
+Added support to turn on/off Line Numbers.
+Added .LOG Support.
+Added very basic Macro support still in testing.
+Added Insert Menu.
+Added Command Shell to Tools menu.
+Added Recent Documents to file menu.
+Added Toolbar support, can be turned on or off in view menu.
+Added two new compiler tools, for Free basic and CScript.
+
+DMPad Version 1.2 22-Nov-2008
+
+Added menu of Environ variables to insert menu.
+Updated Goto now can goto the end ,start and to a chosen position in the document.
+Added Insert current filename in insert menu.
+Added some new macros.
+Added Save Selection to edit menu.
+Added Copy Append to edit menu.
+Added Quick Exiting using the Esc key.
+Added sending of email to file menu.
+Added Options Menu.
+Added Internet serach to Tools menu. see \data\InetSerach.ini to add your own.
+Added VB Examples menu to Insert Menu.
+Added Support to read Unicode, Unicode big endian files.
+Added Delimiters to insert menu, see \data\Delimiters.ini to add your own.
+Added a set of templates to New menu, templates
